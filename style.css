@@ -1,0 +1,24 @@
+
+*{
+    background-color:#27374D;
+    color: aliceblue;
+}
+#pa
+{
+    color:#F8E8EE;
+    font-family: "Roboto Condensed","sans-serif";
+    text-align: center;
+    font-size: 30px;
+}
+img
+{
+ border-radius: 50%;
+ border:10px solid white;
+}
+.mar
+{
+    text-align: justify;
+    margin-left: 25px;
+    margin-right: 25px;
+    font size:500px;
+}
